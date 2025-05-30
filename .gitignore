@@ -26,3 +26,5 @@ build-storybook.log
 junit.xml
 test-results.json
 *.0x
+temp_auto_push.bat
+temp_interactive_push.bat
